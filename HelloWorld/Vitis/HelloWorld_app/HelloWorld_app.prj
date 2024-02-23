@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="HelloWorld_app" location="C:/XilinxDev/HelloWorld/Vitis/HelloWorld_app" platform="C:/XilinxDev/HelloWorld/Vitis/HelloWorld/export/HelloWorld/HelloWorld.xpfm" platformUID="xilinx:pynq-z2::0.0(custom)" systemProject="HelloWorld_app_system" sysConfig="HelloWorld" runtime="cpp" cpu="standalone_ps7_cortexa9_0" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="983119d0a07ecbc10bb16147b65c6e1f">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.28988352">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.590988013" dirty="true">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <template appTemplateName="hello_world"/>
+</sdkproject:SdkProject>
